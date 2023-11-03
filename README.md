@@ -11,7 +11,8 @@ The client is an online retailer with a wide variety of products. They are inter
    
 
 
-Scope
+Scope:
+
 The client provided data for orders between December 2010 and December 2011. The data contains the following features:
 'InvoiceNo', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'UnitPrice', 'CustomerID', 'Country', 'ItemOrderTot', 'order hour', 'order day of week'
 
