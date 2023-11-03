@@ -21,6 +21,14 @@ The client provided data for orders between December 2010 and December 2011. The
 # Overview
 
 We took a look at the clients data and broke down their areas of interest into more detailed questions, then analyzed the data to get answers to those questions. Along the way we did determine some other data points that would be helpful in getting even more insights from the data. 
+1. Growing sales
+   * Where are sales coming from?
+       - One of the best ways to look for sales growth is to examine the best customers. Out of 4372 customers, the top 20% accounted for 49.9% of orders, .63.4% of revenue and 70.3% of all units sold.
+       - Best selling products can give you an idea of what is appealing to your audience and help with choosing new products. 
+     
+3. Getting new customers
+4. finding new products to carry
+
 
 
 Insights
