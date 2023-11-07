@@ -1,7 +1,7 @@
 # Online Order Analysis for Ecommerce Retailer
 
 Analyzing over 540K rows of order data for a business that is looking to prepare for the holiday season and to organize their CX efforts
-![Dashboard 1 (3)](https://github.com/GetJoeMalone/Retailer-Online-Order-Analysis/assets/109935128/ee986954-2303-4daa-b5c2-ccea6bcfcd85)
+![Dashboard 1 (4)](https://github.com/GetJoeMalone/Retailer-Online-Order-Analysis/assets/109935128/cbc80f64-1414-4653-8586-62cd6fbb674e)
 
 
 # Client
