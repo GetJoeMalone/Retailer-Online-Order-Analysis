@@ -35,6 +35,7 @@ We took a look at the clients data and broke down their areas of interest into m
 
 
 
+
 Insights
 Given the Pareto Principle you would expect that the top 20% of customers would account for more orders and revenue, so there is likely some room to improve sales in that group. The top 20% of products are accounting for over 80% of revenue and at least one of them was included in 90% of orders.
 The Nordic countries have high levels of purchasing power, but are not currently at the top of the retailers ranking of countries by revenue
