@@ -31,7 +31,7 @@ We took a look at the clients data and broke down their areas of interest into m
 3. Getting new customers
    Iceland, Finland, Norway, Sweden and Denmark represent markets where the retailer has a fair amount of sales, but would be great areas to target new customers as they have high average household incomes
    
-5. finding new products to carry
+5. Finding new products to carry
 
 
 
